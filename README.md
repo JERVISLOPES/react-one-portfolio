@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+To access the site 👉
+(https://gleeful-youtiao-7e1251.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
