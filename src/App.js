@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div>
+    <div className='overflow-hidden'>
       <Navbar />
       <Home />
       <About />
